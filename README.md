@@ -34,7 +34,7 @@ The admin panel provides a powerful interface for managing the betting platform,
 
 ## Screenshot
 
-
+https://github.com/Adnan-pron/Betting-site/tree/main
 
 Feel free to contact me for more details or if you need the source code.
 
