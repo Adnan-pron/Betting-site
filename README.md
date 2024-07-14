@@ -34,7 +34,7 @@ The admin panel provides a powerful interface for managing the betting platform,
 
 ## Screenshot
 
-![Betting Platform Screenshot](path/to/your/screenshot.png) 
+![Betting Platform Screenshot](01.__thumbnail.png) 
 
 ## Purchase
 
