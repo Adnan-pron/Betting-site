@@ -1,8 +1,9 @@
 # Betting-site
 
-BetLab v2.0 Nulled Sports Betting Platform PHP Script Free Download. BetLab is a Professional Sports Betting Solution that comes with PHP Laravel. It's developed for those who want to start their betting website. Bet Lab is a complete solution for the betting business where users can join directly or by reference and bet on various categories, live sports, or games. The admin can control all users, the website, and manage the games.
+This repository contains the source code for a comprehensive sports betting platform built with PHP and Laravel. The platform includes features such as live chat, bets management, user profiles, deposit and withdrawal history, dynamic functionality, multi-language support, and more.
 
 ## Main Features
+
 - Live chat
 - Bets Management
 - Fixed and Percentage-based Charges
@@ -10,21 +11,31 @@ BetLab v2.0 Nulled Sports Betting Platform PHP Script Free Download. BetLab is a
 - Deposit and Withdrawal History
 - Dynamic Functionality
 - Subscribers Management
-- Multi language support
-- Email, SMS Notification, and Verification
+- Multi-language
+- Email, SMS Notification and Verification
 - Referral Management
-- Template Management
-- Support Ticket System
+- Manage Template
+- Support Ticket
 - SEO Manager
-- and more
+- And more
 
-## Contact
-For any inquiries or access to the source code, feel free to contact me:
+## Admin Panel Features
 
-- **Email:** example@example.com
-- **Telegram:** [Codecraftmens](https://t.me/Codecraftmens)
-- **GitHub:** [Adnan-pron](https://github.com/Adnan-pron)
+The admin panel provides a powerful interface for managing the betting platform, including:
 
----
+- **Dashboard:** Overview of platform statistics and recent activity.
+- **User Management:** View, edit, and manage all registered users.
+- **Bet Management:** Monitor and control all bets placed on the platform.
+- **Deposit/Withdrawal Management:** Track and approve user deposits and withdrawals.
+- **Notification System:** Send email and SMS notifications to users.
+- **Content Management:** Manage site content, including terms, privacy policy, and help pages.
+- **Settings:** Configure platform settings, payment gateways, and more.
+- **Support Tickets:** Manage user support tickets and inquiries.
 
-This repository is a part of my web development projects. Contributions and collaborations are welcome. Feel free to open issues and submit pull requests.
+## Screenshot
+
+
+
+Feel free to contact me for more details or if you need the source code.
+
+[![Contact on Telegram](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/Codecraftmens)
