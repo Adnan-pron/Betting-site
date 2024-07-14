@@ -36,17 +36,17 @@ The admin panel provides a powerful interface for managing the betting platform,
 
 ![Betting Platform Screenshot](01.__thumbnail.png) 
 
+## Demo
+
+Check out the live demo of the platform at [Demo Link](lv_0_20240715030930.mp4).
+
 ## Purchase
 
-This repository contains only the description and screenshots. The full source code is available for purchase.
+This repository contains only the description and demo link. The full source code is available for purchase. 
 
-**Feel free to contact me for more details or to buy the source code:**
+**Contact me for more details or to buy the source code:**
 
-- **Email:** codecraftmens@gmail.com
+- **Email:** your-email@example.com
 - **Telegram:** [Codecraftmens](https://t.me/Codecraftmens)
 
-For the complete source code and a seamless experience, please reach out through the provided contact details.
-
----
-
-**Note:** This project is not open-source and is intended for commercial use only. Please respect the licensing and contact for any inquiries.
+Feel free to contact me for more details or to make a purchase.
